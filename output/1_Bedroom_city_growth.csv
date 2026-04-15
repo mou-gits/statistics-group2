@@ -1,0 +1,9 @@
+"city","university_type","university_flag","apartment_type","rent_start","rent_end","avg_rent","growth_abs","growth_pct","n_obs"
+"London CMA","University",1,"1 Bedroom",669,1066,853.625,397,59.3423019431988,8
+"Kitchener-Cambridge-Waterloo CMA","University",1,"1 Bedroom",796,1261,1023.625,465,58.4170854271357,8
+"Windsor CMA","Non-University",0,"1 Bedroom",600,942,780.625,342,57,8
+"Ottawa-Gatineau CMA (Ont. part)","University",1,"1 Bedroom",881,1331,1094,450,51.0783200908059,8
+"Thunder Bay CMA","Non-University",0,"1 Bedroom",666,976,782.125,310,46.5465465465465,8
+"Greater Sudbury/Grand Sudbury CMA","Non-University",0,"1 Bedroom",641,904,776.375,263,41.0296411856474,8
+"Toronto CMA","University",1,"1 Bedroom",1080,1491,1287.625,411,38.0555555555556,8
+"Barrie CMA","Non-University",0,"1 Bedroom",848,1111,1000.625,263,31.0141509433962,8

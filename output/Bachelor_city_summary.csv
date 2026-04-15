@@ -1,0 +1,9 @@
+"city","university_type","apartment_type","mean_rent","median_rent","sd_rent","min_rent","max_rent"
+"Toronto CMA","University","Bachelor",1287.625,1261.5,151.175335762343,1080,1491
+"Ottawa-Gatineau CMA (Ont. part)","University","Bachelor",1094,1090.5,155.758971307778,881,1331
+"Kitchener-Cambridge-Waterloo CMA","University","Bachelor",1023.625,1012.5,195.689942438104,796,1270
+"Barrie CMA","Non-University","Bachelor",1000.625,1008,109.353865304994,848,1145
+"London CMA","University","Bachelor",853.625,820,149.118301549953,669,1066
+"Thunder Bay CMA","Non-University","Bachelor",782.125,754,96.4534491718303,666,976
+"Windsor CMA","Non-University","Bachelor",780.625,783,116.308625770282,600,942
+"Greater Sudbury/Grand Sudbury CMA","Non-University","Bachelor",776.375,772.5,100.367805737554,641,904

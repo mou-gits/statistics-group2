@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  rent by period_group
+t = 4.6633, df = 59.516, p-value = 1.805e-05
+alternative hypothesis: true difference in means between group After Break and group Before Break is not equal to 0
+95 percent confidence interval:
+ 125.5638 314.2487
+sample estimates:
+ mean in group After Break mean in group Before Break 
+                  1059.781                    839.875 
+

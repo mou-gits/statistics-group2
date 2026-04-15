@@ -1,0 +1,3 @@
+"university_type","apartment_type","mean_rent","median_rent","sd_rent","min_rent","max_rent"
+"Non-University","Bachelor",834.9375,831.5,139.931766206063,600,1145
+"University","Bachelor",1064.71875,1070.5,222.004829121409,669,1491

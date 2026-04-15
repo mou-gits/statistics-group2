@@ -1,0 +1,8 @@
+The dataset covers 2018 to 2025 for 8 selected Ontario CMAs.
+The analysis focuses on Bachelor apartment rents.
+The overall mean rent is 949.83 dollars.
+The highest average rent was observed in Toronto CMA at 1287.62 dollars.
+The lowest average rent was observed in Greater Sudbury/Grand Sudbury CMA at 776.38 dollars.
+Average Bachelor rent changed by 46.93 percent over the study period.
+The t-test comparing university and non-university cities produced a p-value of 8.032e-06 .
+The structural break test at 2022 produced a p-value of 1.805e-05 .
