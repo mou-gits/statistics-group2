@@ -7,7 +7,6 @@ data/
 
 # RStudio project files
 .Rproj.user/
-*.Rproj
 
 # Temporary files
 .Rapp.history
